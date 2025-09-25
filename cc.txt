@@ -1,0 +1,4 @@
+  Cloud computing is a storage like google drive etc. 
+  It is used in everywhere these days. 
+  It has SAAS,PAAS etc. 
+  Virtual Private Cloud is also used . 
