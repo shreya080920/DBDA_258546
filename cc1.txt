@@ -2,3 +2,6 @@
   It is used in everywhere these days. 
   It has SAAS,PAAS etc. 
   Virtual Private Cloud is also used . 
+PAAS-
+Platform as a service Ex- Microsoft azure etc.
+It uses platform for storage .
